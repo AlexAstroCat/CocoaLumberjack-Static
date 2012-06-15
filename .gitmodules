@@ -1,0 +1,3 @@
+[submodule "CocoaLumberjack/CocoaLumberjack"]
+	path = CocoaLumberjack/CocoaLumberjack
+	url = https://github.com/robbiehanson/CocoaLumberjack.git
